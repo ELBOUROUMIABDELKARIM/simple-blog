@@ -1,0 +1,3 @@
+GET http://localhost:3000/authentication/profile
+content-type: application/json
+Authorization: authorization eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOiI2MWQ0YWUxMjI4ZjE3OGI5ZTIyMTBjNWEiLCJpYXQiOjE2NDEzMzI5MDgsImV4cCI6MTY0MTQxOTMwOH0.rZOSZmnCBYeu_hR5pnY0aFlRzbQPw8O0KyfTCKGSa3A
